@@ -37,4 +37,4 @@ I have completed 4 co-ops in industry and 1 co-op as an EEP. My industry co-op e
 ### Contact Information
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-asolkar/)
-[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:asolkasy@mail.uc.edu)
+[![Email Badge](https://img.shields.io/badge/Outlook-Contact_Me-green?style=flat-square&logo=outlook&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:asolkasy@mail.uc.edu)
