@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###Professional Biography
+### Professional Biography
 
 I am a fifth-year Computer Science major. I am most interested in backend and full-stack software development. I chose the field of computer science to make products for people to use. Making tasks easier for users is my main motivation. I also want to get more involved in and learn more about new techniques like AI, Natural Language Processing, and Machine Learning.
 
-###Co-op Work Experience
+### Co-op Work Experience
 
 I have completed 4 co-ops in industry and 1 co-op as an EEP. My industry co-op experiences are detailed below - 
 
@@ -26,9 +26,10 @@ I have completed 4 co-ops in industry and 1 co-op as an EEP. My industry co-op e
 
 * Co-op 3 and 5 - Dell Technologies - Software Engineer Intern - I worked on the ObjectScale and AIOps teams over two rotations. My work here dealt with creating or updating internal tools that helped monitor server health, product pipelines, etc. I used a lot of full-stack technologies to develop these tools. I gained experience with Python, Java, PostgreSQL, SpringBoot, JavaScript, etc. 
 
-####Technical Skills
+#### Technical Skills
+
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,css,html,js,github,jenkins,maven,mysql,postgres,spring&theme=dark)](https://skillicons.dev)
 
-###Project Sought
+### Project Sought
 
-###Contact Information
+### Contact Information
