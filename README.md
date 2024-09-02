@@ -22,9 +22,9 @@ I am a fifth-year Computer Science major. I am most interested in backend and fu
 
 I have completed 4 co-ops in industry and 1 co-op as an EEP. My industry co-op experiences are detailed below - 
 
-* Co-op 1 and 2 - FedEx Ground - Computer Science Co-op - I worked on the Operations Analysis team and helped with report generation and automation. I used a lot of SQL queries for database manipulation. I helped in automating 2 reports with the help of VBA scripting and logic which helped the team generate the same data in <5mins which was >30mins earlier. 
+* Co-op 1 and 2 - Spring 2022, Fall 2022 - FedEx Ground - Computer Science Co-op - I worked on the Operations Analysis team and helped with report generation and automation. I used a lot of SQL queries for database manipulation. I helped in automating 2 reports with the help of VBA scripting and logic which helped the team generate the same data in <5mins which was >30mins earlier. 
 
-* Co-op 3 and 5 - Dell Technologies - Software Engineer Intern - I worked on the ObjectScale and AIOps teams over two rotations. My work here dealt with creating or updating internal tools that helped monitor server health, product pipelines, etc. I used a lot of full-stack technologies to develop these tools. I gained experience with Python, Java, PostgreSQL, SpringBoot, JavaScript, etc. 
+* Co-op 3 and 5 - Summer 2023, Summer 2024 - Dell Technologies - Software Engineer Intern - I worked on the ObjectScale and AIOps teams over two rotations. My work here dealt with creating or updating internal tools that helped monitor server health, product pipelines, etc. I used a lot of full-stack technologies to develop these tools. I gained experience with Python, Java, PostgreSQL, SpringBoot, JavaScript, etc. 
 
 #### Technical Skills
 
@@ -32,4 +32,9 @@ I have completed 4 co-ops in industry and 1 co-op as an EEP. My industry co-op e
 
 ### Project Sought
 
+
+
 ### Contact Information
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-asolkar/)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:asolkasy@mail.uc.edu)
