@@ -54,7 +54,5 @@ I am looking for a project where I can create a solution for a real-life problem
 
 ### Contact Information
 
-Phone Number: (513) 237-3457
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-asolkar/)
 [![Outlook](https://img.shields.io/badge/Outlook_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:asolkasy@mail.uc.edu)
