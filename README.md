@@ -46,12 +46,6 @@ I have completed 4 co-ops in industry and 1 co-op as an EEP. My industry co-op e
 
 ---
 
-### Project Sought
-
-I am looking for a project where I can create a solution for a real-life problem. I want to learn and implement new techniques like Machine Learning, AI, etc., to add to my skill set. I also want to utilize my current skill set as much as possible, which includes creating UI designs, performing user reviews, and other technical skills. 
-
----
-
 ### Contact Information
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-asolkar/)
