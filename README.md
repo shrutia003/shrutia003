@@ -42,7 +42,7 @@ I have completed 4 co-ops in industry and 1 co-op as an EEP. My industry co-op e
 
 #### Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,css,html,js,github,jenkins,maven,mysql,postgres,spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,css,html,js,github,jenkins,maven,mysql,postgres,spring,flutter,dart,androidstudio,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
