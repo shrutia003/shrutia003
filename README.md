@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Professional Biography
 
-I am a fifth-year Computer Science major. I am most interested in backend and full-stack software development. I chose the field of computer science to make products for people to use. Making tasks easier for users is my main motivation. I also want to get more involved in and learn more about new techniques like AI, Natural Language Processing, and Machine Learning.
+I am a Computer Science recent graduate from the University of Cincinnati. I am most interested in backend and full-stack software development. I chose the field of computer science to make products for people to use. Making tasks easier for users is my main motivation. I also want to get more involved in and learn more about new techniques like AI, Natural Language Processing, and Machine Learning.
 
 ---
 
@@ -29,8 +29,8 @@ I have completed 4 co-ops in industry and 1 co-op as an EEP. My industry co-op e
 *FedEx Ground | Spring 2022, Fall 2022*
 
 * I worked on the Operations Analysis team and helped with report generation and automation.
-* Utilised SQL queries for database manipulation and to fetch correct information for the reports.
-* Automated 2 reports with the help of VBA scripting and logic which helped the team generate the same data in <5mins which was >30mins earlier.
+* Utilised SQL queries for database manipulation and to fetch the correct information for the reports.
+* Automated 2 reports with the help of VBA scripting and logic, which helped the team generate the same data in <5mins, which was >30mins earlier.
 
 **Software Engineer Intern**
 
@@ -42,7 +42,7 @@ I have completed 4 co-ops in industry and 1 co-op as an EEP. My industry co-op e
 
 #### Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,css,html,js,github,jenkins,maven,mysql,postgres,spring,flutter,dart,androidstudio,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,css,html,js,go,github,jenkins,maven,mysql,postgres,spring,flutter,dart,androidstudio,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
